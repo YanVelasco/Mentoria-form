@@ -147,6 +147,10 @@ h1 {
   width: 38.875rem;
 }
 
+.time{
+  margin-top: 2.19rem;
+}
+
 .free-time {
   display: flex;
   column-gap: 1rem;
